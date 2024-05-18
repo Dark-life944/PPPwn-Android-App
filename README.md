@@ -2,7 +2,7 @@
 
 ## this project is for make app via Android studio Follow this steps:
 
-1-open new project on android studio then copy the file as the same place of the same file names 
+1-open new project on android studio then copy the file on up as the same place of the same file names 
 
 2-add this to file build.gradle (Module: app):
 
